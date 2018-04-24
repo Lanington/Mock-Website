@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Snapper Trapper</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+  </head>
+<body>
+
+  <header>
+        <div class="row">
+          <div class="logo">
+            <img src="img/logo.png">
+        <ul class="main-nav">
+          <li><a href="">HOME</a></li>
+          <li><a href="">ABOUT US</a></li>
+          <li><a href="">FIREARMS</a></li>
+          <li><a href="">AMMO</a></li>
+        </ul>
+
+    <div class="hero">
+        <h1> GOODBYE AIRSOFT <br> HELLO TO THE REAL THING</h1>
+        <div class="button-awesome">
+          <a href="" class="btn btn-half"> Show me more!</a>
+          <a href="" class="btn btn-full"> I need Ammo!</a>
+        </div>
+    </div>
+
+  </header>
+
+  <section class="features">
+
+    <h3 class="text-center">GET THE ARMS FAST</h3>
+    <p class="copy">Duis quis mi sed tellus maximus faucibus ornare eu mi.
+      Donec mollis tristique quam eget semper.
+      Nulla vehicula neque elit, a malesuada ligula maximus in.
+      Nullam tincidunt, erat non pellentesque porta, ligula purus ornare sem, in semper diam diam a elit. Sed iaculis neque eu orci suscipit mattis.
+    </p>
+    <div class="container">
+      <div class="row">
+      <div class="col-md-3">
+        <i class="fa fa-certificate"></i>
+        <h4>Clean your gun</h4>
+        <p class="arranging">
+          Duis quis mi sed tellus maximus faucibus ornare eu mi.
+          Donec mollis tristique quam eget semper.
+
+        </p>
+
+      </div>
+
+      <div class="col-md-3">
+        <i class="fa fa-camera"></i>
+          <h4>Clean your gun</h4>
+        <p class="arranging">
+          Duis quis mi sed tellus maximus faucibus ornare eu mi.
+          Donec mollis tristique quam eget semper.
+
+        </p>
+
+      </div>
+
+      <div class="col-md-3">
+        <i class="fa fa-envelope"></i>
+          <h4>Clean your gun</h4>
+        <p class="arranging">
+          Duis quis mi sed tellus maximus faucibus ornare eu mi.
+          Donec mollis tristique quam eget semper.
+
+        </p>
+
+      </div>
+
+      <div class="col-md-3">
+        <i class="fa fa-cog"></i>
+          <h4>Clean your gun</h4>
+        <p class="arranging">
+          Duis quis mi sed tellus maximus faucibus ornare eu mi.
+          Donec mollis tristique quam eget semper.
+
+        </p>
+
+      </div>
+
+    </div>
+
+
+    </div>
+
+
+  </section>
+
+  <section class="gun">
+  <ul class="gun-showcase clearfix">
+    <li>
+    <figure class="gun-photo">
+        <img src="img/pic4.jpg">
+
+      </figure>
+
+    </li>
+
+    <li>
+    <figure class="gun-photo">
+        <img src="img/pic4.jpg">
+
+      </figure>
+
+    </li>
+
+    <li>
+    <figure class="gun-photo">
+        <img src="img/pic4.jpg">
+
+      </figure>
+
+    </li>
+
+    <li>
+    <figure class="gun-photo">
+        <img src="img/pic4.jpg">
+
+      </figure>
+
+    </li>
+
+    <li>
+    <figure class="gun-photo">
+        <img src="img/pic4.jpg">
+
+      </figure>
+
+    </li>
+
+    <li>
+    <figure class="gun-photo">
+        <img src="img/pic4.jpg">
+
+      </figure>
+
+    </li>
+
+    <li>
+    <figure class="gun-photo">
+        <img src="img/pic4.jpg">
+
+      </figure>
+
+    </li>
+
+    <li>
+    <figure class="gun-photo">
+        <img src="img/pic4.jpg">
+
+      </figure>
+
+    </li>
+
+  </ul>
+
+
+
+
+</section>
+
+
+<section class="mobile">
+  <h3 class="text-center">HOW IT WORKS AS SIMPLE AS 1,2,3...</h3>
+  <div class="container">
+    <div class="row">
+    <div class="col-md-6">
+      <div class="phone">
+        <img src="img/Phone.png">
+      </div>
+    </div>
+    <div class="col-md-6">
+    <div class="works-step">
+      <div>1</div>
+      <p>
+        Duis quis mi sed tellus maximus faucibus ornare eu mi.
+        Duis quis mi sed tellus maximus faucibus ornare eu mi.
+      </p>
+
+      <div>2</div>
+      <p>
+        Duis quis mi sed tellus maximus faucibus ornare eu mi.
+        Duis quis mi sed tellus maximus faucibus ornare eu mi.
+      </p>
+
+      <div>3</div>
+      <p>
+        Duis quis mi sed tellus maximus faucibus ornare eu mi.
+        Duis quis mi sed tellus maximus faucibus ornare eu mi.
+      </p>
+      <a href=""><img src="img/android.png"></a>
+      <a href=""><img src="img/apple.png"></a>
+
+      </div>
+
+
+    </div>
+
+
+
+    </div>
+
+
+
+    </div>
+
+
+</section>
+
+<section class="testimonials">
+<h3 class="text-center">OUR CUSTOMERS CAN'T LIVE WITH OUT US!</h3>
+<div class="container">
+    <div class="row">
+    <div class="col-md-4">
+        <p>
+          Who is such a man as does not wnat to get success life is not for work
+          Who is such a man as does not wnat to get success life is not for work
+          Who is such a man as does not wnat to get success life is not for work
+          Who is such a man as does not wnat to get success life is not for work
+
+        </p>
+        <cite><img src="img/pic5.jpg"> Nat Natural</cite>
+
+    </div>
+      <div class="col-md-4">
+          <p>
+            Who is such a man as does not wnat to get success life is not for work
+            Who is such a man as does not wnat to get success life is not for work
+            Who is such a man as does not wnat to get success life is not for work
+            Who is such a man as does not wnat to get success life is not for work
+
+          </p>
+          <cite><img src="img/pic5.jpg"> James Jones</cite>
+
+
+      </div>
+        <div class="col-md-4">
+            <p>
+              Who is such a man as does not wnat to get success life is not for work
+              Who is such a man as does not wnat to get success life is not for work
+              Who is such a man as does not wnat to get success life is not for work
+              Who is such a man as does not wnat to get success life is not for work
+
+            </p>
+            <cite><img src="img/pic5.jpg"> Matt Marker</cite>
+
+
+        </div>
+
+    </div>
+</div>
+
+
+</section>
+  <section class="form">
+    <div class="container">
+      <h3 class="text-center">WE WILL BE HAPPY TO HEAR FROM YOU </h3>
+
+  </div>
+<div class="row gap">
+
+      <div class="col-md-4">
+    <input type="text" placeholder="Username" class="form-control"> <br>
+    <input type="email" placeholder="Email" class="form-control"> <br>
+    <input type="password" placeholder="Password" class="form-control">
+
+
+      </div>
+      <div class="col-md-8">
+        <textarea class="form-control" rows="7" placeholder="Comments"></textarea>
+        <button class="btn btn-warning btn-block">Submit</button>
+
+      </div>
+
+
+
+</div>
+
+
+
+</section>
+
+
+
+
+
+
+
+    </body>
+</html>
